@@ -78,7 +78,7 @@
 }
 
 .menu-image-1 {
-  background-image: url("../img/menu/300x1200-menu-1.jpg");
+  background-image: url("../img/menu/7.png");
 }
 
 .menu-image-2 {
@@ -2137,6 +2137,9 @@ form .inputs-description {
   }
   .countdown.countdown-full #countdown-large {
     font-size: 6rem;
+  }
+  .menu-image{
+    background-position: 0px 0;
   }
 }
 @media only screen and (min-width: 1400px) {

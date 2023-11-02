@@ -311,7 +311,7 @@ table {
      -moz-box-flex: 0;
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
-  width: 16.66666667%;
+  width: 100%;
 }
 
 .col-3 {
