@@ -168,13 +168,13 @@ input::-moz-focus-inner {
 }
 
 ::-moz-selection {
-  background-color: #00dbde;
+  background-color: #3E5CC1;
   color: #212121;
   text-shadow: none;
 }
 
 ::selection {
-  background-color: #00dbde;
+  background-color: #3E5CC1;
   color: #212121;
   text-shadow: none;
 }
@@ -196,8 +196,8 @@ input::-moz-focus-inner {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: -webkit-gradient(linear, left top, left bottom, from(#F0AD0F), to(#00dbde));
-  background: linear-gradient(to bottom, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#F0AD0F), to(#3E5CC1));
+  background: linear-gradient(to bottom, #F0AD0F 0%, #3E5CC1 100%);
   border-radius: 10px;
 }
 
@@ -561,7 +561,7 @@ h1 {
 }
 h1 span.gradient-text {
   color: #F0AD0F;
-  background: -webkit-linear-gradient(0deg, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-linear-gradient(0deg, #F0AD0F 0%, #3E5CC1 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -687,7 +687,7 @@ p.section-text {
 }
 .no-touch .media__copyright a:hover,
 .no-touch .side-copyright a:hover {
-  color: #00dbde;
+  color: #3E5CC1;
 }
 
 .side-copyright p {
@@ -897,10 +897,10 @@ p.section-text {
   left: 0;
   width: 100%;
   height: 300%;
-  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#00dbde));
-  background: -moz-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: -o-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: linear-gradient(to right, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#3E5CC1));
+  background: -moz-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: -o-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: linear-gradient(to right, #F0AD0F 0%, #3E5CC1 100%);
   -webkit-transition: -webkit-transform 0.5s;
   transition: -webkit-transform 0.5s;
   -o-transition: transform 0.5s;
@@ -1083,7 +1083,7 @@ form .inputs-description {
   color: #F0AD0F;
 }
 .reply-group__icon::before {
-  background: -webkit-linear-gradient(-45deg, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-linear-gradient(-45deg, #F0AD0F 0%, #3E5CC1 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1123,10 +1123,10 @@ form .inputs-description {
   left: 4px;
   width: 24px;
   height: 4px;
-  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#00dbde));
-  background: -moz-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: -o-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: linear-gradient(to right, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#3E5CC1));
+  background: -moz-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: -o-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: linear-gradient(to right, #F0AD0F 0%, #3E5CC1 100%);
 }
 @media only screen and (min-width: 768px) {
   .typed-cursor::before {
@@ -1902,7 +1902,7 @@ form .inputs-description {
 }
 .navigation__item.active-link .link {
   color: #ffffff;
-  background: -webkit-linear-gradient(0deg, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-linear-gradient(0deg, #F0AD0F 0%, #3E5CC1 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1912,7 +1912,7 @@ form .inputs-description {
 .no-touch .navigation__item.active-link:hover .link {
   overflow: visible;
   color: #ffffff;
-  background: -webkit-linear-gradient(0deg, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-linear-gradient(0deg, #F0AD0F 0%, #3E5CC1 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1969,7 +1969,7 @@ form .inputs-description {
     margin-bottom: 0;
   }
   .no-touch .socials ul li:hover a {
-    color: #00dbde;
+    color: #3E5CC1;
   }
 }
 @media only screen and (min-width: 1400px) {
@@ -2165,7 +2165,7 @@ form .inputs-description {
 /* ------------------------------------------------*/
 .swiper {
   height: 100%;
-  background-color: #00dbde;
+  background-color: #3E5CC1;
 }
 
 .swiper-slide {
@@ -2179,7 +2179,7 @@ form .inputs-description {
   position: relative;
   width: 100%;
   height: 100%;
-  background-color: #00dbde;
+  background-color: #3E5CC1;
   background-position: center center;
   background-repeat: no-repeat;
   -moz-background-size: cover;
@@ -2239,10 +2239,10 @@ form .inputs-description {
 }
 .swiper-pagination.main-pagination .swiper-pagination-bullet-active {
   height: 4px;
-  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#00dbde));
-  background: -moz-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: -o-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: linear-gradient(to right, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#3E5CC1));
+  background: -moz-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: -o-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: linear-gradient(to right, #F0AD0F 0%, #3E5CC1 100%);
   margin-bottom: -1px !important;
 }
 
@@ -2877,10 +2877,10 @@ form .inputs-description {
   left: 0;
   width: 0px;
   height: 2px;
-  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#00dbde));
-  background: -moz-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: -o-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-  background: linear-gradient(to right, #F0AD0F 0%, #00dbde 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#3E5CC1));
+  background: -moz-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: -o-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+  background: linear-gradient(to right, #F0AD0F 0%, #3E5CC1 100%);
 }
 
 .skill-bar-percent {
@@ -2976,7 +2976,7 @@ form .inputs-description {
   transition: all 0.3s ease-in-out;
 }
 .no-touch .contact-data__item p a:hover {
-  color: #00dbde;
+  color: #3E5CC1;
 }
 .contact-data__item ul {
   font: normal 400 1.4rem/1.7 "Roboto", sans-serif;
@@ -2992,7 +2992,7 @@ form .inputs-description {
   transition: all 0.3s ease-in-out;
 }
 .no-touch .contact-data__item ul li:hover a {
-  color: #00dbde;
+  color: #3E5CC1;
 }
 
 /* ------------------------------------------------*/
@@ -3075,9 +3075,9 @@ form .inputs-description {
           transform: translateX(0) rotate(0deg);
   width: 100%;
   height: 100%;
-  background: -moz-linear-gradient(315deg, #F0AD0F 0%, #00dbde 100%);
-  background: -o-linear-gradient(315deg, #F0AD0F 0%, #00dbde 100%);
-  background: linear-gradient(135deg, #F0AD0F 0%, #00dbde 100%);
+  background: -moz-linear-gradient(315deg, #F0AD0F 0%, #3E5CC1 100%);
+  background: -o-linear-gradient(315deg, #F0AD0F 0%, #3E5CC1 100%);
+  background: linear-gradient(135deg, #F0AD0F 0%, #3E5CC1 100%);
   -webkit-transition: -webkit-transform 0.5s;
   transition: -webkit-transform 0.5s;
   -o-transition: transform 0.5s;
@@ -3097,10 +3097,10 @@ form .inputs-description {
     top: -150%;
     left: 0;
     height: 300%;
-    background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#00dbde));
-    background: -moz-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-    background: -o-linear-gradient(left, #F0AD0F 0%, #00dbde 100%);
-    background: linear-gradient(to right, #F0AD0F 0%, #00dbde 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#F0AD0F), to(#3E5CC1));
+    background: -moz-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+    background: -o-linear-gradient(left, #F0AD0F 0%, #3E5CC1 100%);
+    background: linear-gradient(to right, #F0AD0F 0%, #3E5CC1 100%);
     -webkit-transform: translateX(-110%) rotate(25deg);
        -moz-transform: translateX(-110%) rotate(25deg);
         -ms-transform: translateX(-110%) rotate(25deg);
